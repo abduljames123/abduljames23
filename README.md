@@ -234,6 +234,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 Untuk profesi terkait informatika pasti banyak sekali dan banyak juga peminatnya dan adapun beberapa contoh pekerjaan informatika:
+
 Software Engineer: Seorang software engineer mengaplikasikan prinsip-prinsip pengelolaan dan optimalisasi perangkat lunak. Mereka merancang, mengembangkan, memelihara, dan menguji perangkat lunak komputer atau perangkat lain. Pekerjaan ini memiliki prospek yang baik dan mengalami pertumbuhan hingga 17% selama 10 tahun ke depan12.
 
 IT Consultant: Seorang IT consultant bertugas menerapkan strategi teknologi informasi dalam perencanaan, pelaksanaan, dan evaluasi di perusahaan. Mereka memberikan saran tentang penggunaan teknologi informasi secara efisien untuk mencapai tujuan bisnis1.
