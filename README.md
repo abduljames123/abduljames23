@@ -127,9 +127,13 @@ saya telah mendaftar dan megkeksplor hackerRank dan telah membuat akun saya yait
 dan adapun kegunaan aplikasi hackerRank tersebut adalah :platform yang sangat berguna bagi para pengembang dan calon pengembang perangkat lunak.
 dan adpun manfaatnya di antara lain:
 1.Mengasah Kemampuan Programming.
+
 2.Mengasah Kemampuan Programming.
+
 3.Mengasah Kemampuan Programming.
+
 4.Juri Online.
+
 Jadi, jika Anda ingin mengasah kemampuan pemrograman atau memperdalam pengetahuan dalam berbagai bidang teknologi, HackerRank adalah tempat yang tepat,apalagi bagi kita mahasiswa tekhnik informatika pasti sangat membantu.
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
@@ -149,8 +153,11 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 jadi sebelumnya Web browser adalah perangkat lunak aplikasi yang memainkan peran penting dalam mengakses dan menampilkan halaman web.
 Dan adapun untuk kegunaan Web Browser terkhusus untuk mengakses halaman website HTMLO adalah:
+
 1.Menerima Permintaan Akses jadi ketika kita memasukkan alamat website si Web Browser akan menerima permintaan akses anda,kemudian Permintaan ini kemudian diteruskan oleh browser ke DNS server untuk mengambil data terkait halaman yang ingin Anda akses.
+
 2.Menampilkan Konten Website jadi Web browser tidak hanya membuka halaman web, tetapi juga menampilkan konten yang dimuat oleh website.dan Kode HTML yang ada pada halaman web akan diterjemahkan oleh web browser sehingga tampil sesuai dengan desain yang dirancang.
+
 3.Standar dan Perbedaan Antar Browser.
 Jadi, web browser adalah alat utama yang digunakan untuk mengakses halaman web dan menampilkan konten yang ada di dalamnya.
 
@@ -190,7 +197,7 @@ dan saya telah membuat contoh file JSON dan adapun contohnya yang ada di bawah i
     "email" : "al6759237@gmail.com",
     "hobi" : ["main bola","makan","mendaki gunung"]
 	
-    ]
+    
 }
 
 Dan untuk pengertian struktur data di atas adalah:
@@ -209,13 +216,18 @@ jadi JSON sangat berguna dalam pertukaran data antar aplikasi, penyimpanan konfi
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+saya telah mencoba penggunaan content management system(wordpress) jadi kegunaan wordpress yaitu WordPress bisa membantu Anda membuat dan mengelola website tanpa coding. Anda bisa menata tampilan, menambahkan fitur, dan membuat konten di website dengan mudah. Jadi, cocok untuk digunakan pemula sekalipun. dan ini adalah link wordpress saya https://cussdotid.wordpress.com/2023/12/12/sejarah-piala-dunia/
+
+
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
@@ -240,10 +252,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 Kaggle adalah situs yang memfasilitasi kolaborasi, pembelajaran, dan kompetisi dalam bidang ilmu data kemudian saya telah mendaftar akun kaggle dan adapun akun saya https://www.kaggle.com/abduljamesrodrigues dan kegunaan aplikasi atau web kaggle yaitu:
 1.Data: Kaggle menyediakan berbagai kumpulan data yang dapat digunakan oleh ilmuwan data.
+
 2.Kode: Kaggle memiliki banyak contoh kode yang dibagikan oleh pengguna lain.
+
 3.Komunitas: Kaggle berfungsi sebagai komunitas tempat para analis data, ilmuwan data, dan insinyur pembelajaran mesin dapat belajar, berkembang, dan terhubung. 
+
 4.Inspirasi: Melalui Kaggle, Anda dapat mendapatkan inspirasi dari proyek-proyek data science yang telah dikerjakan oleh orang lain.
+
 5.Kompetisi: Kaggle sering mengadakan kompetisi ilmu data.
+
 6.Kursus: Kaggle juga menyediakan kursus-kursus yang membantu pemula memahami dasar-dasar ilmu data dan pembelajaran mesin.
 
 Dan pengunaan aplikasi ini dan data data yang berada didalam aplikasi tersebut tidak di pungut biaya atau gratis,dan sangat berguna bagi orang yang mempelajari atau mendalami ilmu tentang IT.
@@ -257,9 +274,22 @@ Dan pengunaan aplikasi ini dan data data yang berada didalam aplikasi tersebut t
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+Jurnal adalah sebuah catatan yang dibuat secara teratur dan sistematis tentang kegiatan, peristiwa, atau pemikiran yang terjadi. Jurnal dapat digunakan untuk berbagai tujuan, termasuk untuk mencatat kegiatan sehari-hari, menyebarkan ide-ide, atau mendokumentasikan hasil penelitian atau observasi.
+
+Conference adalah pertemuan antara dua pihak atau lebih untuk membahas topik tertentu secara formal dan terstruktur123. Biasanya, konferensi melibatkan orang-orang yang memiliki kepentingan atau keahlian dalam bidang yang sama.dan jenis konferensi itu ada dua yaitu: konferensi pers dan konferensi video.adapun tujuan diadakanya konferensi adalah:Bertujuan untuk berbagi penelitian, temuan, dan pemikiran di antara para akademisi dan peneliti. kemudian Digunakan untuk membahas strategi bisnis, tren pasar, dan kolaborasi antara perusahaan. dan yang terakhir yaitu membahas tentang perdagangan, investasi, dan kerjasama ekonomi antara negara-negara.
+
+Artikel adalah karangan berisi fakta dan opini yang dibuat untuk dipublikasikan di media cetak maupun media sosial. Teks artikel bertujuan untuk menyampaikan gagasan dilengkapi data dan fakta yang disajikan dalam bentuk tulisan.
+
+Grade jurnal adalah tingkatan tingkatan jurnal yang mengacu pada peringkat atau kualitas suatu jurnal ilmiah. Terdapat beberapa metode untuk menilai dan mengklasifikasikan jurnal berdasarkan kriteria tertentu.
+
+
+
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+
+
+
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
@@ -282,7 +312,9 @@ Pengembang Augmented Reality (AR) dan Virtual Reality (VR): Pengembang AR dan VR
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
@@ -365,6 +397,7 @@ Mendukung penerapan gratis satu klik untuk aplikasi web ChatGPT/LLM pribadi Anda
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
