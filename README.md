@@ -192,18 +192,27 @@ sebelumnya JSON (JavaScript Object Notation) adalah format file berbasis teks ya
 dan saya telah membuat contoh file JSON dan adapun contohnya yang ada di bawah ini:
 
 
+
 {
+
     "nama" : "Abdul latif dzuhri",
+    
     "alamat" : "pandana merdeka",
+    
     "umur" : 18,
+    
     "no_Hp" : "088983254103",
+    
     "email" : "al6759237@gmail.com",
+    
     "hobi" : ["main bola","makan","mendaki gunung"]
+    
 	
     
 }
 
 Dan untuk pengertian struktur data di atas adalah:
+
 1.Objek JSON dimulai dengan tanda kurung kurawal {}.
 2.Setiap elemen dalam objek adalah pasangan kunci (key) dan nilai (value), dipisahkan oleh tanda koma.
 3.Nilai dapat berupa string, angka, objek, atau array.
@@ -256,6 +265,7 @@ saya akhirnya mencoba mengedit konten multimedia mengunakan aplikasi CAPCUT yang
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 Kaggle adalah situs yang memfasilitasi kolaborasi, pembelajaran, dan kompetisi dalam bidang ilmu data kemudian saya telah mendaftar akun kaggle dan adapun akun saya https://www.kaggle.com/abduljamesrodrigues dan kegunaan aplikasi atau web kaggle yaitu:
+
 1.Data: Kaggle menyediakan berbagai kumpulan data yang dapat digunakan oleh ilmuwan data.
 
 2.Kode: Kaggle memiliki banyak contoh kode yang dibagikan oleh pengguna lain.
