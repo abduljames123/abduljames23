@@ -126,6 +126,7 @@ setelah saya mengeksplor apa itu IDE,IDE adalah kunci dalam mengembangkan perang
 saya telah mendaftar dan megkeksplor hackerRank dan telah membuat akun saya yaitu: https://www.hackerrank.com/profile/abdullatifdzuhri
 dan adapun kegunaan aplikasi hackerRank tersebut adalah :platform yang sangat berguna bagi para pengembang dan calon pengembang perangkat lunak.
 dan adpun manfaatnya di antara lain:
+
 1.Mengasah Kemampuan Programming.
 
 2.Mengasah Kemampuan Programming.
@@ -189,6 +190,8 @@ Referensi []
 
 sebelumnya JSON (JavaScript Object Notation) adalah format file berbasis teks yang umumnya digunakan dalam proses pertukaran data antara server dan klien.
 dan saya telah membuat contoh file JSON dan adapun contohnya yang ada di bawah ini:
+
+
 {
     "nama" : "Abdul latif dzuhri",
     "alamat" : "pandana merdeka",
@@ -230,6 +233,8 @@ saya telah mencoba penggunaan content management system(wordpress) jadi kegunaan
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
+saya akhirnya mencoba mengedit konten multimedia mengunakan aplikasi CAPCUT yang dimana aplikasi tersebut adalah aplikasi pengeditan video yang dikembangkan oleh Bytedance, perusahaan teknologi asal China yang juga mengembangkan aplikasi populer seperti TikTok. CapCut dirancang untuk memudahkan pengguna dalam membuat dan mengedit video dengan berbagai efek, filter, dan fitur kreatif.sehingga banyak manusia atau orang minat menggunakanya.dan saya juga telah banyak atau sudah menggunakan aplikasi tersebut dan ini adalah akun saya di aplikasi capcut(https://mobile.capcutshare.com/s/Zs82p2632/)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -286,6 +291,7 @@ Grade jurnal adalah tingkatan tingkatan jurnal yang mengacu pada peringkat atau 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 
@@ -312,8 +318,12 @@ Pengembang Augmented Reality (AR) dan Virtual Reality (VR): Pengembang AR dan VR
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
+jadi saya telah mengeksplorasi aplikasi duolingo,duolingo aplikasi pembelajaran bahasa yang populer di seluruh dunia. Aplikasi ini dirancang untuk membantu pengguna belajar bahasa asing secara interaktif dan menyenangkan. Duolingo menyediakan metode pembelajaran yang berfokus pada permainan dan latihan, membuat proses belajar bahasa menjadi lebih menarik dan efektif.jadi banyak orang suka atau seneng menggunakan aplikasi tersebut karena sangat membantu untuk belajar suatu bahasa.(https://www.duolingo.com/placement/id)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+
+tidak jauh berbeda dengan aplikasi Dulingo,HelloTalk adalah aplikasi pembelajaran bahasa yang memungkinkan pengguna untuk berkomunikasi dengan penutur asli bahasa yang ingin belajar bahasa lain. Aplikasi ini menawarkan platform berbasis sosial yang memungkinkan pengguna untuk berbicara dan berinteraksi dengan sesama pengguna yang menggunakan bahasa yang ingin dipelajari atau diajarkan.dan aplikasi ini  menekankan pembelajaran bahasa melalui interaksi sosial dan praktik langsung dengan penutur asli. Aplikasi ini dapat menjadi alat yang efektif untuk orang yang ingin meningkatkan kemampuan berbahasa mereka dengan berkomunikasi secara langsung dengan penutur asli dan belajar dari satu sama lain.jadi sangat cocok juga untuk belajar menambah wawasan tentang bahasa.
 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
@@ -328,6 +338,69 @@ saya mengambil data ini dari web:https://www.jobstreet.co.id/id/it-jobs
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+setelah saya mengksplorasi Freelancer.com banyak sekali lowongan pekerjaan tentang IT tapi kita harus punya bakat atau keterampilan diantara pekerjaan dan tugasnya di freelancer.com
+
+1.Pengembangan Perangkat Lunak:
+
+Pengembangan aplikasi web dan mobile.
+Pengembangan perangkat lunak khusus atau solusi perangkat lunak tertentu.
+Pemeliharaan perangkat lunak.
+
+2.Desain Grafis dan UI/UX:
+
+Desain antarmuka pengguna (UI) dan pengalaman pengguna (UX).
+Desain logo, brosur, dan materi pemasaran.
+Desain grafis untuk aplikasi dan situs web.
+
+3.Pengembangan Situs Web:
+
+Pembuatan dan pengembangan situs web responsif.
+Desain dan pengembangan situs e-commerce.
+Pemeliharaan dan pembaruan situs web.
+
+4.Pengelolaan Basis Data:
+
+Desain dan pengelolaan basis data.
+Optimasi kinerja dan keamanan basis data.
+Pemulihan dan pembaruan basis data.
+
+5.Jaringan dan Keamanan:
+
+Konfigurasi dan pemeliharaan jaringan.
+Audit keamanan dan implementasi langkah-langkah keamanan.
+Penanganan insiden keamanan.
+
+6.Pengujian Perangkat Lunak:
+
+Pengujian fungsional dan pengujian keamanan perangkat lunak.
+Penulisan dan eksekusi skenario pengujian.
+Penyusunan laporan pengujian.
+
+7.Administrasi Sistem:
+
+Administrasi sistem operasi (Windows, Linux, dll.).
+Pemantauan dan pemeliharaan server.
+Penanganan masalah dan pemecahan masalah.
+
+8.Pengembangan Game:
+
+Desain dan pengembangan game.
+Pemrograman game dan pengoptimalan kinerja.
+Integrasi grafis dan suara dalam game.
+
+9.Penulisan Kode dan Skrip:
+
+Penulisan kode dan skrip khusus.
+Automatisasi tugas dan alur kerja.
+Pemrograman skrip untuk keperluan tertentu.
+
+10.Konsultasi IT:
+
+Memberikan saran tentang solusi teknologi informasi.
+Analisis kebutuhan bisnis dan memberikan rekomendasi teknologi.
+Konsultasi keamanan dan strategi TI.
+
+jadi untuk pekerjaanya tergantung dengan kemampuan masing masing.
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
@@ -397,6 +470,8 @@ Mendukung penerapan gratis satu klik untuk aplikasi web ChatGPT/LLM pribadi Anda
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
+
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
