@@ -71,33 +71,9 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-1.Lipat memanjang kertas HVS menjadi 2 bagian sama besar.
+## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐.
 
-a.carilah kertas HVS atau kertas lain berbentuk persegi panjang.
-b,Lipat dua memanjang sama panjang agar sudutnya saling bertemu untuk menjadikan tekukan awal
-c.Tekan sepanjang tekukan awal dengan jari, lalu bentangkan kertas seperti semula1.
-
-2.Lipat kedua sudut atas agar bertemu tepat pada tekukan awal di tengah kertas.
-
-a.teros Pegang sudut kanan atas, lalu tekuk ke bawah sesuai tekukan awal sehingga terbentuk segitiga sama sisi.
-b.Lakukan langkah yang sama dengan menekuk sudut kiri atas ke tengah kertas1.
-Lipat lagi kedua sudut atas agar bertemu di tengah kertas.
-
-Pegang sudut kanan atas (di ujung bawah sisi miring segitiga), lalu tekuk ke tengah kertas sehingga terbentuk segitiga panjang.
-Lakukan langkah yang sama dengan menekuk sudut kiri atas ke tengah kertas. Saat ini, kertas di depan yamg nernemtuk segitiga.
-
-3.Lipat kertas menjadi 2 bagian yang simetris.
-
-a.Gunakan tekukan awal sebagai panduan untuk melipat kertas.
-b.Setelah dilipat, segitiga besar akan terbagi menjadi 2 segitiga siku-siku.
-c.Tekan sepanjang tekukan awal dengan ibu jari atau penggaris untuk merapatkan kedua sisi kertas1.
-
-5.Buat sayap pesawat dengan melipat sisi miring segitiga agar bertemu di tekukan awal.
-
-a.Dekatkan sisi miring segitiga ke tengah kertas agar bertemu dengan tekukan awal.
-b.Balik kertas untuk membuat sayap di sisi yang lain.
-c.Pastikan kedua sayap simetris agar pesawat tetap seimbang saat meluncur
+![image](https://github.com/abduljames123/abduljames23/assets/144786396/6faf1bec-d326-49d2-ab07-db849df49314)
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
@@ -262,7 +238,18 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+Kaggle adalah situs yang memfasilitasi kolaborasi, pembelajaran, dan kompetisi dalam bidang ilmu data kemudian saya telah mendaftar akun kaggle dan adapun akun saya https://www.kaggle.com/abduljamesrodrigues dan kegunaan aplikasi atau web kaggle yaitu:
+1.Data: Kaggle menyediakan berbagai kumpulan data yang dapat digunakan oleh ilmuwan data.
+2.Kode: Kaggle memiliki banyak contoh kode yang dibagikan oleh pengguna lain.
+3.Komunitas: Kaggle berfungsi sebagai komunitas tempat para analis data, ilmuwan data, dan insinyur pembelajaran mesin dapat belajar, berkembang, dan terhubung. 
+4.Inspirasi: Melalui Kaggle, Anda dapat mendapatkan inspirasi dari proyek-proyek data science yang telah dikerjakan oleh orang lain.
+5.Kompetisi: Kaggle sering mengadakan kompetisi ilmu data.
+6.Kursus: Kaggle juga menyediakan kursus-kursus yang membantu pemula memahami dasar-dasar ilmu data dan pembelajaran mesin.
+
+Dan pengunaan aplikasi ini dan data data yang berada didalam aplikasi tersebut tidak di pungut biaya atau gratis,dan sangat berguna bagi orang yang mempelajari atau mendalami ilmu tentang IT.
+
+
+## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
