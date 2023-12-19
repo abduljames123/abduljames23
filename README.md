@@ -481,10 +481,32 @@ Mendukung penerapan gratis satu klik untuk aplikasi web ChatGPT/LLM pribadi Anda
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+ saya telah mendaftar dan membangun akun Linkedin saya karena LinkedIn adalah alat yang kuat untuk membangun dan mengembangkan karir Anda.jadi cocok untuk mencari sebuah pekerjaan,dan saya pun telah mengikuti beberapa akun yang sangat menginspirasi saya yang bertemakan informatikadan ini akun akun yang saya ikuti:
+
+ 1.Linus Torvalds: beliau adalah Pencipta kernel Linux dan salah satu tokoh terkemuka dalam dunia open source. (https://www.linkedin.com/in/linustorvalds/)
+
+ 2.Satya Nadella: beliau adalah  CEO Microsoft, yang memiliki latar belakang teknologi informatika. (https://www.linkedin.com/in/satyanadella/)
+
+ 3.Grace Hopper: beliau adalah Pionir komputer dan penemu bahasa pemrograman COBOL. (https://www.linkedin.com/in/grace-hopper-6b873a222/)
+
+ 4.Andrew Ng: beliau adalah  Ahli dalam bidang machine learning dan pendiri Coursera. (https://www.linkedin.com/in/andrewyng/)
+
+ 5.Hadi Partovi: beliau adalah Pendiri Code.org, yang berfokus pada pendidikan pemrograman bagi anak-anak. (https://www.linkedin.com/in/hadip/)
+
+ jadi itu beberapa akun yang saya ikuti yang kegunaannya bisa mengisnpirasi saya di dunia informatika.
+
 
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+
+Sebelumnya GitHub adalah platform sosial yang populer di kalangan para pengembang di seluruh dunia. Banyak perekrut melihat kemampuan pengembang melalui profil GitHub mereka. Salah satu cara untuk membuat profil GitHub lebih menarik adalah dengan menambahkan README.md pada repositori Anda. jadi tidak menutup kemungkinan banyak orang yang menggunakan aplikasi GitHub ini dan agar akun GitHub kita jadi lebih menarik atau unik ada beberapa cara yang dapat di lakukan yaitu:
+
+1.Buat Repositori Baru jadi kalian membuat repositori baru dengan nama yang sama dengan nama pengguna GitHub Anda. Misalnya, jika nama pengguna Anda adalah “Gapur”, nama repositori haruslah “Gapur”.
+
+2.Edit README.md Setelah membuat repositori, klik tanda pensil di bagian ujung kanan file README.md yang sudah berisi template default (biasanya berisi “Hi There”).kemudian Mulailah mengedit konten README.md sesuai dengan preferensi Anda. Anda dapat menambahkan informasi tentang diri Anda, proyek yang sedang dikerjakan, alat yang digunakan, dan cara menghubungi Anda.Setelah selesai mengedit, klik “Commit changes” untuk menyimpan perubahan
+
+jadi cara cara di atas adalah beberapa cara untuk kita mengembangkan akun GitHub kita agar lebih jadi menarik dan unik dan ini berikut akun GitHub saya:(https://github.com/abduljames123)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
