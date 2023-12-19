@@ -261,6 +261,7 @@ saya akhirnya mencoba mengedit konten multimedia mengunakan aplikasi CAPCUT yang
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+sebelumnya Hugging Face adalah komunitas kecerdasan buatan yang membangun masa depan. Mereka menyediakan platform di mana komunitas machine learning berkolaborasi dalam mengembangkan model, dataset, dan aplikasi. Hugging Face juga dikenal sebagai tempat untuk berbagi pengetahuan dan sumber daya di bidang machine learning. jadi kemudian saya mendaftar dan mengkesplor aplikasi ini untuk bisa membangun masa depan dan menambah wawasan tentang machine learning saya,tidak cuma itu dengan menggunakan huggingface kita juga bisa Membuat, menemukan, dan berkolaborasi pada model, dataset, dan aplikasi,Eksplorasi berbagai modalitas seperti teks, gambar, video, audio, dan bahkan 3D,dan Berbagi pekerjaan Anda dengan dunia dan membangun profil machine learning.jadi sangat berguna sekali aplikasi ini dan Hugging Face telah digunakan oleh lebih dari 50.000 organisasi dan bekerja sama dengan perusahaan seperti Microsoft, Amazon Web Services, dan Intel. dan ini adalah akun huggingface saya (https://huggingface.co/abduljames23)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
