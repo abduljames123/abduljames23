@@ -334,6 +334,13 @@ saya mencoba web Tool AI Discriminative (image classification) di goggle collab 
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+saya di sini mencoba Web Tool AI Generative (Text to Image) menggunakan bing ai image dan inilah hasilnya
+
+<img width="397" alt="Cuplikan layar 2023-12-26 024547" src="https://github.com/abduljames123/abduljames23/assets/144786396/9ff91139-b1ad-4e86-a70a-502b2da2ee98">
+
+
+
+
 
 
 
