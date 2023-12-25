@@ -72,6 +72,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐.
 
 ![image](https://github.com/abduljames123/abduljames23/assets/144786396/6faf1bec-d326-49d2-ab07-db849df49314)
@@ -270,7 +271,25 @@ jadi JSON sangat berguna dalam pertukaran data antar aplikasi, penyimpanan konfi
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
+Developer Tools pada web browser memiliki berbagai kegunaan yang sangat membantu dalam pengembangan web yaitu:
+
+1.Debugging: proses mengidentifikasi dan menghapus bug atau error di dalam kode
+
+2.Inspeksi Elemen: kita dapat memeriksa dan mengedit langsung kode HTML dan CSS.
+
+3.Monitoring Jaringan: jadi Developer Tools bisa saja memungkinkan kita untuk memantau jaringan yang terjadi ketika user melakukan request dan server memberikan response.
+
+4.Console: jadi kita dapat melihat proses yang terjadi dengan kode Javascript.
+
+5.Profiling: kita dapat melihat performa Javascript terhadap CPU.
+
+jadi saya memilih https://uinsgd.ac.id/ untuk mencari kegunaan Developer Tools Pada Web Browser dan ini hasilnya
+
+<img width="953" alt="Cuplikan layar 2023-12-26 011844" src="https://github.com/abduljames123/abduljames23/assets/144786396/794d59e8-117b-4fc8-8d41-529fab8b0fce">
+
+
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+
 
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
@@ -305,17 +324,45 @@ dan itulah hasil saya mengedit di aplikasi CAPCUT.
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+
+
+
 
 
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+Data visualization adalah teknik untuk menggambarkan informasi dan data secara grafis. Ini membantu memahami pola, tren, dan hubungan dalam data dengan lebih baik.dan ini contohnya dalam code 
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Membaca data dari file CSV
+data = pd.read_csv("namafile.csv")  # Ganti dengan nama file CSV Anda
+
+# Membuat scatter plot
+plt.scatter(data['kolom_x'], data['kolom_y'])  # Ganti dengan nama kolom yang sesuai
+
+# Menambahkan judul dan label
+plt.title("Scatter Plot")
+plt.xlabel('Kolom X')
+plt.ylabel('Kolom Y')
+
+# Menampilkan plot
+plt.show()
+
+
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
@@ -342,7 +389,11 @@ Dan pengunaan aplikasi ini dan data data yang berada didalam aplikasi tersebut t
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐⭐
 
+sebelumnya MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol pesan berbasis standar yang digunakan untuk komunikasi mesin-ke-mesin12. Protokol ini sangat ringan dan menganut prinsip pengangkutan pesan berbasis publish-subscribe. dan saya juga telah melakukanya bersama anak kelas A secara bersama sama dan sudah mendlowad aplikasi tersebut.https://mqtt.org/
+
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+
+
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
@@ -582,6 +633,10 @@ setelah saya mencari info info tentang workhsop atau yang lainya saya pun telah 
 tetapi saya belum bisa mengikuti dengan maksimal karena terkendala dengan waktu dan karna saya berada di mahad,tetapi saya akan belajar atau mengikutinya dengan sungguh sungguhb agar bisa mendapatkan ilmu yang bermanfaat.
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+saya telah membaca buku yang berjudul (Kode: Bahasa Tersembunyi Perangkat Keras dan Perangkat Lunak Komputer).buku ini di tulis atau di ciptakan oleh Charles Petzold,buku ini berisi tentang bagaimana cara kerja perangkat keras dan perangkat lunak pada komputer secara rinci. dan membahas tentang perbedaan bahasa pemrograman atau kode yang telah ada di masa lampau.penulis pun ingin para pembacanya bisa  menjabarkan tentang bagaimana cara memanipulasi bahasa lewat coding dan menemukan cara baru untuk berkomunikasi satu sama lain. jadi saya pun berinsprasi dari membaca buku tersebut agar bisa mendapatkan ilmu dan motivasi dari buku ini.
+
+
 
 
 
