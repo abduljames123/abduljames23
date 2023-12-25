@@ -80,7 +80,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-kali ini saya telah mencoba scratch dalam bahasa indonesia scratch adalah Scratch adalah bahasa pemrograman berbasis visual yang dirancang khusus untuk anak-anak dan pemula1234. Dengan Scratch, pengguna dapat membuat animasi, permainan, dan interaksi multimedia lainnya dengan mudah tanpa harus menguasai bahasa pemrograman yang kompleks3. Scratch memudahkan programmer dalam membuat program tanpa perlu khawatir dengan penulisan sintaksis. dan ini hasil project saya https://scratch.mit.edu/projects/937906877
+kali ini saya telah mencoba scratch dalam bahasa indonesia scratch adalah Scratch adalah bahasa pemrograman berbasis visual yang dirancang khusus untuk anak-anak dan pemula. Dengan Scratch, pengguna dapat membuat animasi, permainan, dan interaksi multimedia lainnya dengan mudah tanpa harus menguasai bahasa pemrograman yang kompleks. Scratch memudahkan programmer dalam membuat program tanpa perlu khawatir dengan penulisan sintaksis. dan ini hasil project saya https://scratch.mit.edu/projects/937906877
 
 Referensi [1](https://scratch.mit.edu/)
 
