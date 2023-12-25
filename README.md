@@ -327,40 +327,34 @@ dan itulah hasil saya mengedit di aplikasi CAPCUT.
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+saya mencoba web Tool AI Discriminative (image classification) di goggle collab yang dimana saya memasukkan gambar ke dalam kolom yang sesuai di perintahkan dan begini hasilnya.
 
-
-
+<img width="384" alt="Cuplikan layar 2023-12-26 023257" src="https://github.com/abduljames123/abduljames23/assets/144786396/360c0697-8539-4113-a5e4-754a891731cf">
 
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 
 
+
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+
+saya di sini Mencoba Model Machine Learning Menggunakan Google Colab dan ini hasilnya
+
+<img width="954" alt="Cuplikan layar 2023-12-26 022613" src="https://github.com/abduljames123/abduljames23/assets/144786396/72b1046e-a1c7-41f5-b6be-f9b431369486">
 
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-Data visualization adalah teknik untuk menggambarkan informasi dan data secara grafis. Ini membantu memahami pola, tren, dan hubungan dalam data dengan lebih baik.dan ini contohnya dalam code 
+Data visualization adalah teknik untuk menggambarkan informasi dan data secara grafis. Ini membantu memahami pola, tren, dan hubungan dalam data dengan lebih baik.dan ini contoh punya saya yang dimana saya menggunakan google colleb.
 
-import pandas as pd
-import matplotlib.pyplot as plt
 
-# Membaca data dari file CSV
-data = pd.read_csv("namafile.csv")  # Ganti dengan nama file CSV Anda
+<img width="892" alt="Cuplikan layar 2023-12-26 022918" src="https://github.com/abduljames123/abduljames23/assets/144786396/b1bdecea-0479-48d3-8d91-8ff29d5ce979">
 
-# Membuat scatter plot
-plt.scatter(data['kolom_x'], data['kolom_y'])  # Ganti dengan nama kolom yang sesuai
-
-# Menambahkan judul dan label
-plt.title("Scatter Plot")
-plt.xlabel('Kolom X')
-plt.ylabel('Kolom Y')
-
-# Menampilkan plot
-plt.show()
 
 
 
