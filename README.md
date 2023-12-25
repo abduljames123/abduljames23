@@ -79,6 +79,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+kali ini saya telah mencoba scratch dalam bahasa indonesia scratch adalah Scratch adalah bahasa pemrograman berbasis visual yang dirancang khusus untuk anak-anak dan pemula1234. Dengan Scratch, pengguna dapat membuat animasi, permainan, dan interaksi multimedia lainnya dengan mudah tanpa harus menguasai bahasa pemrograman yang kompleks3. Scratch memudahkan programmer dalam membuat program tanpa perlu khawatir dengan penulisan sintaksis. dan ini hasil project saya https://scratch.mit.edu/projects/937906877
 
 Referensi [1](https://scratch.mit.edu/)
 
@@ -140,6 +141,8 @@ Jadi, jika Anda ingin mengasah kemampuan pemrograman atau memperdalam pengetahua
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 
@@ -170,9 +173,13 @@ Jadi, web browser adalah alat utama yang digunakan untuk mengakses halaman web d
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+
+
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+
+
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -216,6 +223,10 @@ Referensi tutorial
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
+ setelah saya melakukan penerapan tekhnik SEO pada HTML ada beberapa tekhnik yang dapat dilakukan yaitu:
+ Optimasi Judul Halaman (Title Tag),Meta Description,Struktur URL yang SEO-Friendly,Penggunaan Heading (H1, H2, H3, dll.),Optimasi Gambar,Penggunaan Keyword,Kecepatan Situs,DLL.
+
+ dan Ingatlah bahwa SEO adalah proses jangka panjang dan membutuhkan waktu untuk melihat hasilnya.
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -295,6 +306,8 @@ dan itulah hasil saya mengedit di aplikasi CAPCUT.
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+
+
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
