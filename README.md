@@ -180,6 +180,7 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 saya pun telah mencoba membuat web menggunakan HTML, CSS, dan javascript dan inilah berikut codinganya 
 
+ 
 <!DOCTYPE html>
 <html>
 <head>
@@ -346,7 +347,7 @@ Grade jurnal adalah tingkatan tingkatan jurnal yang mengacu pada peringkat atau 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
- kali ini saya mengksplorasi jurnal di dalam aplikasi IEEE Xplore yang dimana aplikasi IEEE Xplore adalah IEEE Xplore adalah platform digital utama untuk penemuan dan akses ke konten ilmiah dan teknis yang diterbitkan oleh IEEE (Institute of Electrical and Electronics Engineers) dan mitra penerbitannya1. IEEE Xplore berisi lebih dari 6 juta dokumen dan materi lainnya dari beberapa publikasi paling banyak dikutip di bidang teknik elektro, ilmu komputer, dan ilmu terkait. dan saya sudah dapat contoh jurnal di aplikasi tersebut yaitu [;https://ieeexplore.ieee.org/document/10261199
+ kali ini saya mengksplorasi jurnal di dalam aplikasi IEEE Xplore yang dimana aplikasi IEEE Xplore adalah IEEE Xplore adalah platform digital utama untuk penemuan dan akses ke konten ilmiah dan teknis yang diterbitkan oleh IEEE (Institute of Electrical and Electronics Engineers) dan mitra penerbitannya1. IEEE Xplore berisi lebih dari 6 juta dokumen dan materi lainnya dari beberapa publikasi paling banyak dikutip di bidang teknik elektro, ilmu komputer, dan ilmu terkait. dan saya sudah dapat contoh jurnal di aplikasi tersebut yaitu https://ieeexplore.ieee.org/document/10261199
 
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
