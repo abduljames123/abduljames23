@@ -51,6 +51,7 @@ Semua jenis komputer ini memiliki peran dan fungsinya masing-masing. Komputasi a
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
@@ -177,6 +178,36 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
+saya pun telah mencoba membuat web menggunakan HTML, CSS, dan javascript dan inilah berikut codinganya 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Halaman Web Saya</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selamat datang di Halaman Web Saya!</h1>
+    <button id="clickButton">Klik saya!</button>
+
+    <script>
+        document.getElementById("clickButton").addEventListener("click", function() {
+            alert("Anda telah mengklik tombol!");
+        });
+    </script>
+</body>
+</html>
+
+
+
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
@@ -240,12 +271,25 @@ saya telah mencoba penggunaan content management system(wordpress) jadi kegunaan
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+saya mendemostrasikan akses konten multimedia dan saya pun memilih capcut. CAPCUT yang dimana aplikasi tersebut adalah aplikasi pengeditan video yang dikembangkan oleh Bytedance, perusahaan teknologi asal China yang juga mengembangkan aplikasi populer seperti TikTok. CapCut dirancang untuk memudahkan pengguna dalam membuat dan mengedit video dengan berbagai efek, filter, dan fitur kreatif.sehingga banyak manusia atau orang minat menggunakanya.dan saya juga telah banyak atau sudah menggunakan aplikasi tersebut dan ini adalah akun saya di aplikasi capcut(https://mobile.capcutshare.com/s/Zs82p2632/)
+
+
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-saya akhirnya mencoba mengedit konten multimedia mengunakan aplikasi CAPCUT yang dimana aplikasi tersebut adalah aplikasi pengeditan video yang dikembangkan oleh Bytedance, perusahaan teknologi asal China yang juga mengembangkan aplikasi populer seperti TikTok. CapCut dirancang untuk memudahkan pengguna dalam membuat dan mengedit video dengan berbagai efek, filter, dan fitur kreatif.sehingga banyak manusia atau orang minat menggunakanya.dan saya juga telah banyak atau sudah menggunakan aplikasi tersebut dan ini adalah akun saya di aplikasi capcut(https://mobile.capcutshare.com/s/Zs82p2632/)
+saya akhirnya mencoba mengedit konten multimedia mengunakan aplikasi CAPCUT dan ini hasilnya 
+
+https://github.com/abduljames123/abduljames23/assets/144786396/0dc09049-34ae-4d24-982f-7cc79fbd3c19
+
+dan itulah hasil saya mengedit di aplikasi CAPCUT.
+
+
+
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+
+
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
@@ -302,8 +346,17 @@ Grade jurnal adalah tingkatan tingkatan jurnal yang mengacu pada peringkat atau 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+ kali ini saya mengksplorasi jurnal di dalam aplikasi IEEE Xplore yang dimana aplikasi IEEE Xplore adalah IEEE Xplore adalah platform digital utama untuk penemuan dan akses ke konten ilmiah dan teknis yang diterbitkan oleh IEEE (Institute of Electrical and Electronics Engineers) dan mitra penerbitannya1. IEEE Xplore berisi lebih dari 6 juta dokumen dan materi lainnya dari beberapa publikasi paling banyak dikutip di bidang teknik elektro, ilmu komputer, dan ilmu terkait. dan saya sudah dapat contoh jurnal di aplikasi tersebut yaitu [;https://ieeexplore.ieee.org/document/10261199
+
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+
+saya telah menonton video presentasi tugas akhir informatika mahasiswi uns surakarta dan ini akun youtobe nya https://www.youtube.com/@tiastutilarasati1407
+
+![image](https://github.com/abduljames123/abduljames23/assets/144786396/d3b07ad4-d91b-4004-a396-215053101604)
+
+
+
 
 
 
