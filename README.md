@@ -51,6 +51,11 @@ Semua jenis komputer ini memiliki peran dan fungsinya masing-masing. Komputasi a
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+sebelumnya Google Colab atau Google Colaboratory adalah sebuah dokumen yang dapat dieksekusi yang digunakan untuk menyimpan, menulis, dan membagikan program melalui Google Drive.
+dan saya pun telah mengaktifkan dan mencoba google colab tersebut di kelas bersama pa insan dan teman teman saya di situ juga saya di suruh untuk membuat code yang bisa menghasilkan suara dan inilah tampilanya.
+
+![AI ipynb - Colaboratory dan 1 halaman lainnya - Pribadi 3 - Microsoft​ Edge 26_12_2023 13_07_20](https://github.com/abduljames123/abduljames23/assets/144786396/fa69c97e-2c66-4498-b9a7-e3373a2e9e17)
+
 
 ## Mencoba Console Sistem Operasi
 
@@ -174,11 +179,23 @@ Jadi, web browser adalah alat utama yang digunakan untuk mengakses halaman web d
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+URL atau Uniform Resource Locator adalah alamat web yang mengarah ke website, halaman web, atau dokumen tertentu di internet. URL memungkinkan Anda mengakses informasi dari komputer atau lokasi online, seperti web server atau penyimpanan cloud. Nah disini saya mengunakan website https://informatika.digital/ untuk mencari apa saja komponen yang berada di dalam URL link tersebut yaitu:
+
+1.Protokol: Protokol menentukan cara pertukaran atau transfer data melalui jaringan komputer. Pada URL ini, protokol yang digunakan adalah HTTPS.
+
+2.Nama Host Komputer (Hostname): nah di URL ini menunjukkan lokasi server yang menyimpan konten yang ingin Anda akses. Pada URL tersebut, informatika.digital adalah nama host komputer.
+
+3.Ekstensi Domain: Ekstensi domain menunjukkan jenis domain.nah di website ini domainya menggunakan .digital.
+
+jadi demikian saya mendesmontrasikan dan menjelaskan komponen dari URL website https://informatika.digital/
+
 
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+
+
 
 
 
@@ -268,6 +285,8 @@ jadi JSON sangat berguna dalam pertukaran data antar aplikasi, penyimpanan konfi
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
+
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
