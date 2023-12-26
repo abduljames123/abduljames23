@@ -195,11 +195,29 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
+jadi untuk melacak informasi server dari Alamat domain ada beberapa cara yaitu :
+
+1.Check Host: jadi sebelumnya kita harus mengunjungi halaman website Check Host dan lakukan uji lokasi server. dan disanalah  kita bisa memeriksa lokasi server berdasarkan domain atau alamat IP server.
+
+2.DNS Checker: kemudian Bukalah website  DNS Checker melalui web browser Anda. kemudian masukkan domain situs Anda di bagian kolom domain, setelah itu pilih tipe rekaman “A”, dan klik “Lookup DNS”. dengan demikian dalam beberapa detik, alamat IP akan ditampilkan.
+
+3.Cek WHOIS: Gunakan Tool Cek WHOIS dari Niagahoster untuk memeriksa data terbaru di database domain Whois.
+
+4.Khusus untuk pengguna macbook kita  dapat menggunakan Network Utility. Dengan menekan ikon spotlight, lalu ketik “Network Utility”, dan kemudian klik dua kali pada aplikasi tersebut.
+
+Dan ini beberapa contoh alamat domain yaitu:
+
+a.www.google.com: Alamat domain untuk mesin pencari Google.
+
+b.www.facebook.com: Alamat domain untuk situs jejaring sosial Facebook.
+
+c.www.microsoft.com: Alamat domain untuk perusahaan teknologi Microsoft.
+
+d.www.wikipedia.org: Alamat domain untuk ensiklopedia online Wikipedia.
 
 
 
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Inlnternet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -242,9 +260,12 @@ Referensi tutorial
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
  setelah saya melakukan penerapan tekhnik SEO pada HTML ada beberapa tekhnik yang dapat dilakukan yaitu:
- Optimasi Judul Halaman (Title Tag),Meta Description,Struktur URL yang SEO-Friendly,Penggunaan Heading (H1, H2, H3, dll.),Optimasi Gambar,Penggunaan Keyword,Kecepatan Situs,DLL.
+ 
+ Optimasi Judul Halaman (Title Tag), Meta Description,Struktur URL yang SEO-Friendly, Penggunaan Heading (H1, H2, H3, dll.), Optimasi Gambar, Penggunaan Keyword, Kecepatan Situs, DLL.
 
  dan Ingatlah bahwa SEO adalah proses jangka panjang dan membutuhkan waktu untuk melihat hasilnya.
+
+ 
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -275,8 +296,11 @@ dan saya telah membuat contoh file JSON dan adapun contohnya yang ada di bawah i
 Dan untuk pengertian struktur data di atas adalah:
 
 1.Objek JSON dimulai dengan tanda kurung kurawal {}.
+
 2.Setiap elemen dalam objek adalah pasangan kunci (key) dan nilai (value), dipisahkan oleh tanda koma.
+
 3.Nilai dapat berupa string, angka, objek, atau array.
+
 jadi JSON sangat berguna dalam pertukaran data antar aplikasi, penyimpanan konfigurasi, dan banyak lagi.
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
