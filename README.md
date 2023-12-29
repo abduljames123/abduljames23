@@ -167,6 +167,13 @@ Jadi, jika Anda ingin mengasah kemampuan pemrograman atau memperdalam pengetahua
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+saya disini akan mencoba mengistal databese mySQL sebelumnya mySQL  adalah sistem manajemen basis data (Database Management System, DBMS) yang menggunakan bahasa SQL (Structured Query Language) untuk mengelola data.
+
+dan inilah tampilannya :
+
+<img width="934" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/33e1a7b7-b1fc-4d4b-a2e3-85816b08d55b">
+
+
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
@@ -373,8 +380,21 @@ jadi saya memilih https://uinsgd.ac.id/ untuk mencari kegunaan Developer Tools P
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
+Amazon Web Services (AWS) adalah platform layanan komputasi cloud yang menawarkan berbagai produk dan layanan. AWS menyediakan solusi hosting web cloud yang memberi organisasi bisnis, nirlaba, dan pemerintah cara yang hemat untuk menghadirkan situs web dan aplikasi web mereka. Berikut adalah beberapa aplikasi yang disediakan oleh AWS:
 
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
+1.Amazon EC2 (Elastic Compute Cloud): Menyediakan kapasitas komputasi yang dapat diubah ukurannya di cloud. EC2 dapat digunakan untuk meng-host situs web yang menggunakan beberapa pusat data, dan untuk situs yang perlu diskalakan menggunakan penyeimbangan beban, autoscaling, atau basis data eksternal.
+
+2.Amazon Lightsail: Menyediakan Server Privat Virtual yang dibuat mudah. Lightsail dapat digunakan untuk meng-host situs web sederhana yang dibangun di aplikasi umum seperti WordPress, Joomla, Drupal, dan Magento.
+
+3.Amazon Q: Asisten berbasis AI generatif, dengan keamanan dan privasi untuk memenuhi kebutuhan perusahaan yang paling ketat.
+
+4.Amazon SageMaker Studio: Mempercepat pengembangan ML dengan IDE pilihan Anda, alat ML, dan bantuan pengkodean yang didukung AI.
+
+5.Amazon WorkSpaces: Membuat mudah untuk mengakses lingkungan Windows Anda di perangkat apa pun.
+
+<img width="932" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/2d07e79d-6b63-42dc-8810-0a8fc1a4b865">
+
+
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
@@ -403,9 +423,20 @@ dan itulah hasil saya mengedit di aplikasi CAPCUT.
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+Logo adalah bahasa pemrograman yang dikembangkan pada tahun 1967 oleh Wally Feurzeig, Seymour Papert, dan Cynthia Solomon1. Logo dirancang untuk tujuan pendidikan, dengan fokus pada pembelajaran yang berpusat pada siswa dan eksplorasi. dan saya disini menggunakan website https://ccl.northwestern.edu/netlogo/.
+website ini  adalah lingkungan pemodelan yang dapat diprogram oleh banyak agen. Ini digunakan oleh ratusan ribu siswa, guru, dan peneliti di seluruh dunia.
+
+<img width="947" alt="Cuplikan layar 2023-12-29 234258" src="https://github.com/abduljames123/abduljames23/assets/144786396/0ca2ce73-5061-4079-911f-dc37624187a3">
+
+
+
+
 
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
+
+
 
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
