@@ -173,6 +173,29 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+kali ini saya telah mengeksplorasi dan mencari bagaimana cara query database menggunakan Dbeaver sebelumnya Dbeaver adalah alat database universal gratis yang mendukung berbagai jenis database seperti MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, dan banyak lagi. dan adapun langkah langkah untuk query database mengunakan dbeaver yaitu:
+
+1.Pilih opsi database: Pertama, kita perlu memilih opsi database yang ingin kita gunakan. Misalnya, jika kita menggunakan MySQL, pilih opsi database MySQL di pilihan konektor.
+
+2.Masukkan detail server dan database: kemudian masukkan lah server dan database yang kalian gunakan.
+
+kalau memang kesulitan bisa pakai cara ini :
+
+a.Buka aplikasi DBeaver1.
+
+b.Pilih Database > New Database Connection1.
+
+c.Pilih jenis database yang digunakan, kemudian klik Next1.
+
+d.lakukan pengaturan koneksi dengan memasukkan Server Host, nama database, user database, password, dan port, kemudian klik Finish.
+
+e.Pengaturan akan muncul di tab Database Navigator.
+
+kemudian dveaber akan melakukan sesuai yang anda perintahkan dan ini contoh gambaran website dveaber comunity https://dbeaver.io/
+
+<img width="938" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/0d9838df-2afb-4e0f-97e5-30c7341837f0">
+
+
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
