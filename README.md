@@ -77,6 +77,22 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+Linux adalah sistem operasi yang menggunakan kernel Linux, yang memiliki berbagai jenis distro mulai dari slackware, redhat, centOs, Backtrack dan lain-lain.
+kegunaan linux antara lain adalah:
+
+1.Server: jadi Linux dapat berfungsi sebagai sistem operasi server untuk mengoperasikan web host, DNS server, sistem cloud, dan masih banyak lagi.
+
+2.Keamanan: kemudian  Linux juga  memiliki sistem keamanan yang lebih baik untuk menghindari ancaman malware yang dapat merusak aplikasi, atau ransomware yang menyerang sistem operasi komputer.
+
+3.Embedded Systems: Linux juga digunakan dalam sistem embedded.
+
+dan saya telah mencoba linux terminal dengan menggunakan google colab 
+
+<img width="945" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/4092ce7d-c3d1-4b44-9d4b-a014edae70a8">
+
+
+
+
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐.
 
@@ -156,6 +172,7 @@ Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
