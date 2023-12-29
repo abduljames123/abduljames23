@@ -437,6 +437,27 @@ saya di sini Mencoba Model Machine Learning Menggunakan Google Colab dan ini has
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+Data Visualization atau visualisasi data adalah proses mengubah data mentah menjadi informasi yang dapat dipahami dengan lebih mudah.nah untuk menggunakan tools itu berarti kita menggunakan berbagai alat atau aplikasi khusus untuk melakukan visualisasi data. dan Berikut adalah beberapa contoh tools yang populer digunakan:
+
+1.Tableau: jadi Software ini menawarkan solusi visualisasi interaktif dan cukup populer di kalangan data analyst karena memiliki grafik analisis bawaan yang menarik.
+
+2.D3.js: Tool ini memungkinkan pengguna untuk membuat bagan dan grafis yang rumit.jadi agak jarang yang menggunakan akan tetapi memiliki keunggulan yang banyak.
+
+3.Plotly: tidak jauh dari d3.js,plotly adalah perangkat open source, interaktif, dan berbasis website. 
+
+dan ini gambaran website nya
+
+<img width="943" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/7c4b6062-d47d-41d4-b652-878f3f561d36">
+
+<img width="948" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/91bf5d6f-5aa2-4296-98a1-e9f7286c07a8">
+
+<img width="941" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/e0248da1-8cb3-470f-9882-df61b46a1426">
+
+
+
+
+
+
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
