@@ -353,10 +353,28 @@ jadi JSON sangat berguna dalam pertukaran data antar aplikasi, penyimpanan konfi
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
+
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
+
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
+API merupakan istilah yang sangat sering didengar di kalangan developer. Dalam skala besar, penggunaan API merupakan unsur yang sangat penting dalam management resource data. Terlebih dalam kasus development dua platform yang harus saling terintegrasi satu sama lain terkait pengolahan datanya.
+dan kali ini saya mengunakan platform Postman, postman merupakan platform yang dapat digunakan untuk melakukan inspeksi alur data pada suatu sistem. Inspeksi data dapat dilakukan hanya melalui GUI postman dengan menentukan method saja. Kemudahan yang ditawarkan oleh Postman sangat membantu dalam pengembangan sistem yang bertahap dan terpisah antara pengembangan backend dan frontend nya. Fungsi utama Postman adalah sebagai GUI API caller. Selain itu, postman memiliki beberapa service yaitu API Client, Automated Testing, Design & Mock, Documentation, Monitors, & Workspace.
+
+dan method yang paling sering digunakan untuk melakukan request dan inspeksi resource data via postman yaitu GET, POST, PUT, DELETE.
+
+a.GET — method ini digunakan untuk mendapatkan data yang telah ada pada database. Biasanya method ini akan mudah dijumpai pada route sistem. pada laravel akan mudah menemui implementasi GET path /routes/web.php. GET dalam implementasi pemrograman web dapat dikenal dengan istilah read dari CRUD.
+
+b.POST — method POST berfungsi untuk melakukan submit data pada spesifik resource. Karena fungsi yang digunakan untuk melakukan submit, maka sering kali data yang diinputkan via API caller dapat memberikan efek perubahan data.
+
+c.PUT — Sederhananya method PUT digunakan untuk menggantikan data lama dengan data baru. Dalam impelementasi pengembangan web, method PUT Ini bisa dipahami sebagai update dari CRUD.
+
+d.DELETE- method delete dalam implementasi pengembangan web, sering dikenal delete dari CRUD. Fungsi nya yaitu menghapus data pada resource yang telah ada. Pada dasarnya GUI API caller hanya platform yang mempermudah developer melakukan inspeksi apakah data maupun fungsi yang berhubungan dengan data telah berfungsi atau tidak. Cek API saat ini menjadi kalimat lazim di kalangan para developer dan tester. Kehadiran API caller mempermudah developer backend dalam membuat akses API tanpa harus menunggu hasil dari kerja developer. Sehingga kinerja pengembangan sistem pun menjadi lebih efisien.
+
+<img width="943" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/80f1a22f-b41e-459f-8c1a-ecf88c739614">
 
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
@@ -439,6 +457,8 @@ website ini  adalah lingkungan pemodelan yang dapat diprogram oleh banyak agen. 
 
 
 
+
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 saya mencoba web Tool AI Discriminative (image classification) di goggle collab yang dimana saya memasukkan gambar ke dalam kolom yang sesuai di perintahkan dan begini hasilnya.
@@ -451,12 +471,6 @@ saya mencoba web Tool AI Discriminative (image classification) di goggle collab 
 saya di sini mencoba Web Tool AI Generative (Text to Image) menggunakan bing ai image dan inilah hasilnya
 
 <img width="397" alt="Cuplikan layar 2023-12-26 024547" src="https://github.com/abduljames123/abduljames23/assets/144786396/9ff91139-b1ad-4e86-a70a-502b2da2ee98">
-
-
-
-
-
-
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
@@ -486,18 +500,12 @@ dan ini gambaran website nya
 
 
 
-
-
-
-
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 Data visualization adalah teknik untuk menggambarkan informasi dan data secara grafis. Ini membantu memahami pola, tren, dan hubungan dalam data dengan lebih baik.dan ini contoh punya saya yang dimana saya menggunakan google colleb.
 
 
 <img width="892" alt="Cuplikan layar 2023-12-26 022918" src="https://github.com/abduljames123/abduljames23/assets/144786396/b1bdecea-0479-48d3-8d91-8ff29d5ce979">
-
-
 
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
@@ -529,9 +537,24 @@ sebelumnya MQTT, singkatan dari Message Queuing Telemetry Transport, adalah prot
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+sebelumnya File CSV adalah singkatan dari Comma Separated Values. File CSV adalah file teks biasa yang berisi daftar data1. Semua file CSV dapat berisi angka dan huruf saja, dan menyusun data yang terkandung di dalamnya dalam bentuk tabel.dan saya telah memproses file CSV menggunakan google colab dan ini hasilnya.
+
+![image](https://github.com/abduljames123/abduljames23/assets/144786396/3c5579ad-ab79-4e30-86f6-c2694898ca13)
+
+
+
+
 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
+File ORC (Optimized Row Columnar) adalah format penyimpanan data yang dirancang untuk Hadoop dan sistem pemrosesan big data lainnya1. Ini adalah format penyimpanan kolom, yang berarti data disimpan dengan cara yang dioptimalkan untuk operasi berbasis kolom seperti penyaringan dan agregasi.dan saya telah memproses File Big Data ORC Menggunakan Google Colab dan ini hasilnya.
+
+<img width="575" alt="Cuplikan layar 2023-12-30 152707" src="https://github.com/abduljames123/abduljames23/assets/144786396/5d240a88-bc1c-405f-b6f3-56a2c6092c47">
+
+
+<img width="575" alt="Cuplikan layar 2023-12-30 153131" src="https://github.com/abduljames123/abduljames23/assets/144786396/e8b5f01a-5f41-4176-8fcd-d922adf43527">
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
