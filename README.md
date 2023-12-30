@@ -463,9 +463,11 @@ website ini  adalah lingkungan pemodelan yang dapat diprogram oleh banyak agen. 
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+saya telah mencoba pemrosesan konten multimedia image menggunakan google colab dan ini hasilnya
 
+<img width="954" alt="Cuplikan layar 2023-12-30 161816" src="https://github.com/abduljames123/abduljames23/assets/144786396/f531b872-7f38-47a8-8c2d-6e4e2ec0f78a">
 
-
+<img width="945" alt="Cuplikan layar 2023-12-30 161830" src="https://github.com/abduljames123/abduljames23/assets/144786396/5c4c6e76-23a7-43bd-8115-e8bf38fa4b8d">
 
 
 
