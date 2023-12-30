@@ -73,6 +73,9 @@ Berikut adalah beberapa perintah dasar yang sering digunakan di Command Prompt (
 9. echo: Menampilkan teks ke layar atau menulis teks ke file.
 10. cls: Membersihkan layar.
 11. help: Menampilkan bantuan untuk perintah tertentu.
+
+<img width="890" alt="image" src="https://github.com/abduljames123/abduljames23/assets/144786396/5517cb6c-42a0-43da-8e55-8cc680450608">
+
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
