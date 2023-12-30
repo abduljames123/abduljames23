@@ -352,11 +352,21 @@ jadi JSON sangat berguna dalam pertukaran data antar aplikasi, penyimpanan konfi
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+saya sudah mencoba mehosting web menggunakan website 000webhost,000webhost adalah layanan hosting web yang menyediakan paket hosting gratis. Ini adalah merek turunan dari Hostinger. Jika Anda mencari hosting bersama gratis, maka ini bisa jadi pilihan yang bagus. Hosting ini tidak akan menayangkan iklan di sepanjang konten Anda, dan hadir dengan beberapa keunggulan dari hosting berbayar, seperti PHP, MySQL, dan cPane. 
+
+<img width="932" alt="Cuplikan layar 2023-12-30 155936" src="https://github.com/abduljames123/abduljames23/assets/144786396/e9ebb6ea-fb01-4048-b031-bfbcfd4f5c18">
+
+
 
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+sama aja kaya di atas 
+
+<img width="932" alt="Cuplikan layar 2023-12-30 155936" src="https://github.com/abduljames123/abduljames23/assets/144786396/8ded792c-193d-4004-8070-c49852aa5037">
+
+ 
 
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
